@@ -1,5 +1,7 @@
 # Face Verification
 
+![face verification planned workflow](docs/planned-workflow.svg)
+
 This repository is currently a starter repository for a face-verification project. Face verification answers the question “Do these two images show the same person?” by comparing a pair of face images and returning a match decision or similarity score.
 
 ## Repository status
